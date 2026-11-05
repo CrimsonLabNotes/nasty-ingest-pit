@@ -107,4 +107,4 @@ and counted in the summary (`redaction_errors_copied_raw=`). Writes are atomic a
 
 MIT — see [LICENSE](./LICENSE).
 
-Copyright (c) 2026 TX-220 with assistance from [Grok (xAI)](https://x.ai).
+Copyright (c) 2026 Crimson Lab with assistance from [Grok (xAI)](https://x.ai).
